@@ -6,6 +6,12 @@
   margin: 0;
 }
 
+/*  HTML styling  */
+
+html {
+  scroll-behavior: smooth;
+}
+
 /*  Body styling  */
 
 body {
@@ -90,9 +96,9 @@ p {
   margin-left: 20px;
 }
 
-/*  Search Engine Section  */
+/*  Services Sections  */
 
-.search-engine-optimization {
+.serivces-section {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -101,51 +107,11 @@ p {
   color: #ffffff;
 }
 
-.search-engine-optimization img {
+.serivces-section img {
   max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-/*  Online Reputation Section  */
-
-.online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.online-reputation-management img {
-  max-height: 200px;
-}
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-/*  Social Media Marketing Section  */
-
-.social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.social-media-marketing img {
-  max-height: 200px;
-}
-
-.social-media-marketing h2 {
+.serivces-section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -164,55 +130,19 @@ aside {
   background-color: #2589bd;
 }
 
-/*  Lead Section  */
+/*  Aside Section  */
 
-.benefit-lead {
+.aside-sections {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit-lead h3 {
+.aside-sections h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
-.benefit-lead img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-/*  Brand Section  */
-
-.benefit-brand {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-brand h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.benefit-brand img {
-  display: block;
-  margin: 10px auto;
-  max-width: 150px;
-}
-
-/*  Cost Section  */
-
-.benefit-cost {
-  margin-bottom: 32px;
-  color: #ffffff;
-}
-
-.benefit-cost h3 {
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-.benefit-cost img {
+.aside-sections img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
