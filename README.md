@@ -11,4 +11,4 @@ A website that presents the servidces of Horiseon Web Company
 
 ## Appearance
 
-![Screenshot of website](./assets/images/screenshot.PNG)
+![Screenshot of website](./assets/images/screenshot.png)
